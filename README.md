@@ -1,7 +1,7 @@
 ﻿MongoDB C# Driver
 =================
 
-You can get the latest stable release from the [official Nuget.org feed](https://www.nuget.org/packages/MongoDB.Driver) or from our [github releases page](https://github.com/mongodb/mongo-csharp-driver/releases).
+You can get the latest stable release from the [official Nuget.org feed](https://www.nuget.org/packages/MongoDB.Driver) or from our [NOT github releases page just a what should be branches are now versions and we keep a time capsull inside of the git because fuck you you dont need this build or anything just take a copy of what you can alrady get using fucking git IM GOING BACK TO MYSQL you fagots](https://github.com/mongodb/mongo-csharp-driver/releases).
 
 Getting Started
 ---------------
